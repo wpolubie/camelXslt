@@ -1,0 +1,2085 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calls xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://im.se/wms/webservices/">
+    <Call>
+        <PickReceipts>
+            <PickReceipt>
+                <ChannelId>BG-LCWOFF</ChannelId>
+                <ChannelRef>BG-LCWOFF</ChannelRef>
+                <TransactionId>2676460</TransactionId>
+                <aPickReceiptHeadDoc>
+                    <OPCODE>1</OPCODE>
+                    <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                    <CustomerOrderSequence>0</CustomerOrderSequence>
+                    <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                    <ShipToCustomerIdentity>BG06</ShipToCustomerIdentity>
+                    <ShipToCustomer_Name>Serdika Mall</ShipToCustomer_Name>
+                    <ShipToCustomer_Name2 xsi:nil="true" />
+                    <ShipToCustomer_Name3 xsi:nil="true" />
+                    <ShipToCustomer_Name4 xsi:nil="true" />
+                    <ShipToCustomer_Name5 xsi:nil="true" />
+                    <ShipToCustomer_Adr>Test 6</ShipToCustomer_Adr>
+                    <ShipToCustomer_Adr2 xsi:nil="true" />
+                    <ShipToCustomer_Adr3 xsi:nil="true" />
+                    <ShipToCustomer_Adr4 xsi:nil="true" />
+                    <ShipToCustomer_PostCode>1505</ShipToCustomer_PostCode>
+                    <ShipToCustomer_City>Sofia</ShipToCustomer_City>
+                    <ShipToCustomer_Country>Bulgaria</ShipToCustomer_Country>
+                    <ShipToCustomer_CountryCode>BG</ShipToCustomer_CountryCode>
+                    <ShipToCustomer_Phone xsi:nil="true" />
+                    <ShipToCustomer_Email xsi:nil="true" />
+                    <ShipToCustomer_ContactName xsi:nil="true" />
+                    <LastOndeparture xsi:nil="true" />
+                    <WarehouseIdentity>PDV1</WarehouseIdentity>
+                    <AssembleToStock>0</AssembleToStock>
+                    <aPickReceiptHeadPackingMaterialDocs />
+                    <aPickReceiptLineDocs>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>1</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>KROSS</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345202</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039476686</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>2</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367979516</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345714</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039489853</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>3</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385214071</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345659</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039492563</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>4</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385006669</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347735</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039481246</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>5</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385214040</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346504</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039484735</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>6</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385309968</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347573</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039475733</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>7</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385214064</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345688</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039474804</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>8</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367942060</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345847</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039485176</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>9</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367822478</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345202</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039493560</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>10</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367789887</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345961</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039492440</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>11</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385185418</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347391</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039480874</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>11</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385185418</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345801</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039486937</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>12</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385211766</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345801</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039485886</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>13</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385212435</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345714</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039475870</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>14</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367817030</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345363</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487774</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>14</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367817030</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345363</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487781</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>15</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385242074</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347573</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039476198</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>16</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367849642</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347072</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039483523</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>17</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367789849</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347527</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039492594</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>18</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367875733</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345924</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039481314</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>18</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367875733</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345924</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039481321</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>19</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385006560</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346622</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039492532</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>20</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367986774</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345569</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039482502</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>21</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367822423</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346377</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039491474</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>22</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384899477</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345236</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487514</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>23</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385214118</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345659</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039491764</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>24</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385310223</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345659</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039481369</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>25</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385242326</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346504</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039484056</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>26</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367783601</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345961</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487262</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>27</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367942091</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345167</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487187</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>28</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367823819</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346377</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039483431</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>29</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367817061</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346377</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039488993</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>30</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385213692</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345659</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039485060</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>31</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367783571</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345194</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039489396</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>32</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384341532</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347391</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039475351</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>33</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367848454</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345308</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039484780</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>34</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367822492</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346079</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039483387</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>35</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367849628</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347072</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039490798</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>36</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367817122</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346377</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039490941</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>37</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384341594</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347749</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039483226</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>37</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384341594</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346996</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487545</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>37</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384341594</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345235</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039486180</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>38</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385309951</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346504</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039475382</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>39</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367785872</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346135</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039482885</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>40</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385211780</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345197</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039490385</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>41</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384474469</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345308</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039487606</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>42</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367817092</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347635</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039483783</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>43</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385242302</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345235</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039488672</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>44</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681367849635</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002347072</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039476334</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>45</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681385242081</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002345235</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039493393</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                        <PickReceiptLineDoc>
+                            <OPCODE>1</OPCODE>
+                            <CustomerOrderNumber>2254334</CustomerOrderNumber>
+                            <CustomerOrderSequence>0</CustomerOrderSequence>
+                            <CustomerOrderSubSequence>0</CustomerOrderSubSequence>
+                            <CustomerOrderLinePosition>46</CustomerOrderLinePosition>
+                            <CustomerOrderLineKitPosition>0</CustomerOrderLineKitPosition>
+                            <CustomerOrderLineSequence>0</CustomerOrderLineSequence>
+                            <OwnerIdentity>BG-LCWOFF</OwnerIdentity>
+                            <ProductIdentity>8681384341846</ProductIdentity>
+                            <PackageIdentity>PCS</PackageIdentity>
+                            <PickQuantity>1</PickQuantity>
+                            <MeasuredQty>0</MeasuredQty>
+                            <RestCode xsi:nil="true" />
+                            <DepartureIdentity>388886</DepartureIdentity>
+                            <DepartureWeekday>4</DepartureWeekday>
+                            <MarketingLotIdentity xsi:nil="true" />
+                            <QualityLotIdentity>110297002002346504</QualityLotIdentity>
+                            <FreighterIdentity>SCHENKER</FreighterIdentity>
+                            <ExpiryDate xsi:nil="true" />
+                            <ShipDate>2022-02-10T16:23:22+01:00</ShipDate>
+                            <ConsignmentNote>1400023360</ConsignmentNote>
+                            <PackingSlipIdentity>2254334 0 0</PackingSlipIdentity>
+                            <OrderedQuantity>1</OrderedQuantity>
+                            <UnderQuantity>0</UnderQuantity>
+                            <OverQuantity>0</OverQuantity>
+                            <ProductionLotIdentity>PODC</ProductionLotIdentity>
+                            <ProductionSubLotIdentity>*</ProductionSubLotIdentity>
+                            <InventoryStatusCode>00</InventoryStatusCode>
+                            <SerialNumber xsi:nil="true" />
+                            <AssembleToStock>0</AssembleToStock>
+                            <ItemLoadIdentity>373927950039474613</ItemLoadIdentity>
+                            <LoadCarrierIdentity>373927950039502286</LoadCarrierIdentity>
+                            <LegalStatus xsi:nil="true" />
+                            <LegalLOT xsi:nil="true" />
+                            <CNCode xsi:nil="true" />
+                            <aPickReceiptLineTextDocs />
+                            <aPickReceiptLineSerialNumberDocs />
+                            <aPickReceiptLinePackingMaterialDocs />
+                        </PickReceiptLineDoc>
+                    </aPickReceiptLineDocs>
+                    <aPickReceiptServiceDocs />
+                    <aPickReceiptTextDocs />
+                </aPickReceiptHeadDoc>
+            </PickReceipt>
+        </PickReceipts>
+    </Call>
+</Calls>
